@@ -67,9 +67,7 @@ Default Rate = DIVIDE([Defaulted Loans], [Total Loans])
 ### Limitations
 
 - This is a descriptive dashboard. It shows patterns in the data, not causes.
-- Some groups are small. For example, North-East has only 1,235 loans, so its rate is less reliable than the others.
 - "Not Recorded" groups (a few hundred loans each for some columns) were left out of the age and loan purpose charts because of their small size.
-- Many columns in the dataset were not visualized. Other fields, such as credit_type and submission_of_application, also show clear differences in default rate and could be added in a future version.
 
 ### How to explore it
 
